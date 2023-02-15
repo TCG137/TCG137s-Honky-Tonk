@@ -1,0 +1,10 @@
+<control> default_path=../.Samples/
+
+<group> ampeg_release=2 
+loop_mode=no_loop
+fil_veltrack=9600
+cutoff=160
+pitchlfo_freq=2.5
+fillfo_freq=3.2
+
+#include "../.ext/HonkedTonk.ext"
